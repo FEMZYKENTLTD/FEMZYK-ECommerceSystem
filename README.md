@@ -1,7 +1,7 @@
 # FEMZYK E-Commerce System
 
-A **simple e-commerce system** built for *CS 1103-01 – Programming Assignment Unit 2*:
-customers can browse products, fill a shopping cart, and place orders — through a styled
+A **simple e-commerce system** built for *CS 1103-01 - Programming Assignment Unit 2*:
+customers can browse products, fill a shopping cart, and place orders - through a styled
 **JavaFX front end** or a **console demonstration**. The focus of the assignment is
 **organizing code with Java packages and the import statement** for proper encapsulation.
 
@@ -112,5 +112,5 @@ with a clear, handled message:
 ## 📚 Academic context
 
 Course project for **CS 1103-01 – AY2027-T1, Programming Assignment Unit 2**
-(University of the People). Built with Maven and JavaFX; compiled with a clean
+(University of the People). Built with Maven and JavaFX by *Olufemi Benua Keripe* ; compiled with a clean
 `BUILD SUCCESS` (no errors, no warnings).
